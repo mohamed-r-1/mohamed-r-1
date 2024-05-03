@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sadek</h1>
 <h3 align="center">A Professional Full Stack Developer</h3>
 
+![](https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966)
+
+I am Mohamed Sadiq, a full-stack developer. I study at the Faculty of Computers and Information, Zagazig University
+
+Skills: VUE JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL / SASS / APIs / Bootstrap
+
 - 🔭 I’m currently working on **My Projects.**
 
 - 💬 Ask me about **JS, VUE JS, LARAVEL, PHP, MYSQL, Bootstrap, HTML, CSS**
