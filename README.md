@@ -11,7 +11,7 @@
 
 <h3 align="left">About me:</h3>
 
-I am Mohamed Sadiq, a full-stack developer. I study at the Faculty of Computers and Information, Zagazig University
+I am Mohamed Sadek, a full-stack developer. I study at the Faculty of Computers and Information, Zagazig University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
