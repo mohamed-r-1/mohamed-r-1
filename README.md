@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **My Projects.**
 
-- 💬 Ask me about **JS, VUE JS, LARAVEL, PHP, MYSQL, Bootstrap, HTML, CSS**
+- 💬 Ask me about **JS, React JS, LARAVEL, PHP, MYSQL, Bootstrap, HTML, CSS**
 
 - 📫 How to reach me **LinkedIn:www.linkedin.com/in/mohamed-sadek1**
 
-- Skills: VUE JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL / SASS / APIs / Bootstrap
+- Skills: React JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL / SASS / APIs / Bootstrap
 
 <h3 align="left">About me:</h3>
 
-I am Mohamed Sadek, a full-stack developer. I study at the Faculty of Computers and Information, Zagazig University
+I am Mohamed Sadek, a full-stack developer. I graduated from Zagazig University, Faculty of Computers and Information, Department of Information Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
