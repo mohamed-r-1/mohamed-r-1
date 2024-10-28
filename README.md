@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mohamed-r-1?label=Follow%20me&style=social" alt="GitHub Followers">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-r-1" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-r-1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
   <a href="https://www.linkedin.com/in/mohamed-sadek1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -23,7 +23,7 @@ I'm Mohamed Sadek, a dedicated Full Stack Developer specializing in **React.js**
 ### 🛠️ Technologies & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
