@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sadek</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Backend Developer (PHP & Laravel)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mohamed-r-1?label=Follow%20me&style=social" alt="GitHub Followers">
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I'm Mohamed Sadek, a dedicated Full Stack Developer specializing in **React.js**, **Laravel**, **PHP**, **JavaScript**, and **MySQL**. I graduated from **Zagazig University** with a degree in Information Technology. Currently, I’m focused on building impactful projects and continuously expanding my technical expertise.
+I'm Mohamed Sadek, a dedicated Backend Developer specializing in **PHP**, **Laravel**, **MySQL**, and **RESTful APIs**. I graduated from **Zagazig University** with a degree in Information Technology. Currently, I’m focused on building scalable backend systems and continuously improving my problem-solving and system design skills.
 
 ---
 
