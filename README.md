@@ -12,6 +12,22 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mohamed-r-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mohamed--r--1-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamed-sadek1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Sadek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:mohamedsadekreyad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mohamed-r-1&label=Profile+Views&style=for-the-badge&color=0e75b6" alt="Profile Views">
+</p>
+
 ---
 
 ### 🚀 About Me
