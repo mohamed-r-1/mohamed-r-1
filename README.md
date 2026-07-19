@@ -2,13 +2,13 @@
 <h3 align="center">Software Engineer | Full Stack Developer (PHP & Laravel)</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mohamed-r-1?label=Followers&style=flat-square&logo=github&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/mohamed-r-1/profile-views&label=Profile%20Views&query=value&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/mohamed-r-1.svg?style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-r-1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
   <a href="https://www.linkedin.com/in/mohamed-sadek1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohamedsadekreyad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
