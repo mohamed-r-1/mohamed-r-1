@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer (PHP & Laravel)</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mohamed-r-1?label=Follow%20me&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/mohamed-r-1.svg?style=social" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=mohamed-r-1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
   <a href="https://www.linkedin.com/in/mohamed-sadek1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
